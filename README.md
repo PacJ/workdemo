@@ -46,7 +46,7 @@
 
 ### 표만들기
 
-- |(vertical val) : 테이블 표현
+- |(vertical val)| : 테이블 표현
 - : 정렬
 - (---)헤더와 셀 구분
 
@@ -60,13 +60,13 @@
 #### 1)인라인 코드(inline code)
 
 - 벡틱(`)으로 강조할 내용을 감싼다.
-  - repository에서 프로젝트의 설명을 부여해줄때 `README.md`를 사용한다.
+  - repository에서 프로젝트의 설명을 부여해줄때 \`README.md`를 사용한다.
 
 #### 2) 블럭코드(block code)
 
 - 벡틱(`) 3개로 html, css, java등 코드를 작성할때 사용한다.
 
-```
+```java
 public static void main(String[] args){
 System.out.println("Hello Java");
 }
