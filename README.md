@@ -17,5 +17,23 @@
 > This is the first blockquote
 >
 > > This is the second blockquote
-> >
-> > This is another first blockquote
+>
+> This is another first blockquote
+
+### 목록 (LIST)
+
+#### 1) 순서가 있는 목록(ol)
+
+    1. 목록1
+        A. 목록 1_1
+        B. 목록 1_2
+        C. 목록 1_3
+    2. 목록2
+    3. 목록3
+    4. 목록4
+
+#### 2) 순서가 없는 목록(ul)
+
+    - first
+    - second
+    - third
